@@ -172,3 +172,20 @@ img {
 
 }
 
+@media screen and (max-width: 468px) {
+
+    .container {
+
+        max-width: 460px;
+
+
+
+
+    }
+
+}
+
+
+
+
+
